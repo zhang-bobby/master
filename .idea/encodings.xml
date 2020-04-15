@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/Behavior/AppBehavior.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Business/AppBusiness.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MainBase/DataHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MainBase/FindObject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MainBase/MobileDriver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MainBase/NetWorkController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MainBase/Recorder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MainBase/SearchIcon.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MainBase/Snapshot.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MainBase/SwipeObject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MainBase/TouchObject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/caseDB/DBHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testNg/AppiumHelloTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testNg/AppiumQQTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testNg/AppiumtoutiaoTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testNg/TEST.java" charset="GBK" />
+  </component>
+</project>
