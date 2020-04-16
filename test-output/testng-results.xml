@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="808760" started-at="2020-03-25T06:48:14Z" finished-at="2020-03-25T07:01:42Z">
+    <groups>
+    </groups>
+    <test name="appium" duration-ms="808760" started-at="2020-03-25T06:48:14Z" finished-at="2020-03-25T07:01:42Z">
+      <class name="testNg.AppTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testNg.AppTest@7006c658]" name="beforeSuite" is-config="true" duration-ms="19546" started-at="2020-03-25T14:47:54Z" finished-at="2020-03-25T14:48:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="testAppReplace()[pri:0, instance:testNg.AppTest@7006c658]" name="testAppReplace" duration-ms="808754" started-at="2020-03-25T14:48:14Z" finished-at="2020-03-25T15:01:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAppReplace -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testNg.AppTest@7006c658]" name="afterSuite" is-config="true" duration-ms="3930" started-at="2020-03-25T15:01:42Z" finished-at="2020-03-25T15:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testNg.AppTest -->
+    </test> <!-- appium -->
+  </suite> <!-- Default Suite -->
+</testng-results>
