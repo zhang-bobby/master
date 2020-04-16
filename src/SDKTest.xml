@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="testNg.testTest"/>
+      	<methods preserve-order="true">
+      	    <include name="testGamePanel" />
+      	    <include name="testFindMyFavor" />
+      	    <include name="testSearchRec" />
+      	    <include name="testFindMoreGame" />
+      	    <include name="testFindMoreApp" />
+      	    
+      	    <include name="testAppReplace" />
+      	    
+      	    <include name="testAppPanel" />
+      	    <include name="testFindMyFavor2" />
+      	    <include name="testSearchRec2" />
+      	    <include name="testFindMoreGame2" />
+      	    <include name="testFindMoreApp2" />
+      	    </methods>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
